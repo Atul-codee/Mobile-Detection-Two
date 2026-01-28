@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Live Demo
-### [Click Here to Try the App](https://atul-codee.github.io/Mobile-Detection-Two/)
+### [Click Here to Try the App](https://atul-dev-ai.github.io/Mobile-Detection-Two/)
 *(Make sure to allow camera permissions when prompted)*
 
 ---
@@ -50,7 +50,7 @@ If you want to run this project on your own computer:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Atul-codee/Mobile-Detection-Two.git](https://github.com/Atul-codee/Mobile-Detection-Two.git)
+   git clone [https://github.com/atul-dev-ai/Mobile-Detection-Two.git](https://github.com/atul-dev-ai/Mobile-Detection-Two.git)
 
 2. Navigate to the folder:
     ```bash
@@ -63,11 +63,12 @@ If you want to run this project on your own computer:
 👨‍💻 Author
 Atul Paul
 
-GitHub: [@Atul-codee](https://github.com/Atul-codee)
+GitHub: [@atul-dev-ai](https://github.com/atul-dev-ai)
 
 LinkedIn: [Atul Paul](https://www.linkedin.com/in/paul-atul/)
 
 Discord: [Bengali Devs Hub જ⁀➴](https://discord.gg/ba5Gmj5zj6)
 
 ---
-  Made with ❤️ [by Atul Paul](https://github.com/Atul-codee)
+
+  Made with ❤️ by [Atul Paul](https://github.com/atul-dev-ai)
